@@ -18,6 +18,8 @@ namespace ConsoleApp1
             Console.WriteLine(2 + 2 + " é o resultado");
             Console.WriteLine(2 + 2 * 3);
 
+            Console.Beep();
+            
             Console.ReadKey();
         }
     }
